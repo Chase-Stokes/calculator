@@ -5,3 +5,7 @@
   text-align: center;
   font-size: 69px;
 }
+
+.btn {
+  border: 1px solid black;
+}
